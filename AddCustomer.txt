@@ -54,3 +54,13 @@ AddCustomer "dsmith", "James", "1200 kingsway street", "Vancouver", "CA", "32441
 
 ''Valid input 
 AddCustomer "Cole", "Ray", "5380 clinton street", "Delta", "CA", "12345"  
+
+''Valid input
+AddCustomer "Nicolas", "Sarkozi", "paradis street", "Toronto", "CA", "35441"
+
+''Valid input 
+AddCustomer "Sami", "Ali", "garden street", "Calgary", "CA", "11345"  
+
+''Valid input 
+AddCustomer "Mona", "Zaki", "university street", "Montreal", "CA", "10345"  
+
