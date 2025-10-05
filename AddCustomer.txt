@@ -69,3 +69,6 @@ AddCustomer "Mona", "Zaki", "university street", "Montreal", "CA", "10345"
 ''Valid input 
 AddCustomer "Lionel", "Messi", "McDonald street", "Quebec", "CA", "14345" 
 
+''Invalid input Firstname as numbers
+AddCustomer "56432190", "Jhon", "university street", "Ottwa", "CA", "19345"  
+
