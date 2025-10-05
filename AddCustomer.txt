@@ -1,0 +1,56 @@
+'' ************************************************************************************
+
+'' Abbas Automated Testing
+'' Copyright (c) 2020 Abbas
+'' All Rights Reserved Worldwide
+'' Unauthorized Duplication or Distribution Prohibited
+'' *************************************************************************************
+'' FILENAME: AddCustomer3
+'' *************************************************************************************
+'' ABOUT THIS FILE
+'' AUTHOR IDENTIY:
+'' Initial                   Name/Company
+'' -------                   -------------------------------------------------------
+'' Ahmed                     Abbas INC
+'' REVISION HISTORY:
+'' Date/Initials             Comments
+'' -------------             --------
+'' 16/08/2020                Created for LoanApp 2.8
+
+
+
+'' ************************************************************************************
+
+'' Abbas Automated Testing
+'' Copyright (c) 2020 Abbas
+'' All Rights Reserved Worldwide
+'' Unauthorized Duplication or Distribution Prohibited
+'' *************************************************************************************
+'' FILENAME: AddCustomer3
+'' *************************************************************************************
+'' ABOUT THIS FILE
+'' AUTHOR IDENTIY:
+'' Initial                   Name/Company
+'' -------                   -------------------------------------------------------
+'' Ahmed                     Abbas INC
+'' REVISION HISTORY:
+'' Date/Initials             Comments
+'' -------------             --------
+'' 16/08/2020                Created for LoanApp 2.8
+
+'--------------------------------------------------------------------------------------------------------
+
+''Valid input
+AddCustomer "Julia", "Roberts", "1100 sunset blvd", "Hollywood", "CA", "98286"
+
+''Invalid input - missing Firstname
+AddCustomer "", "Peter", "1100 sunset blvd", "Hollywood", "CA", "98286"
+
+''Invalid input - missing Lastname
+AddCustomer "Ron", "", "1100 sunset blvd", "Hollywood", "CA", "98286"
+
+''Valid input
+AddCustomer "dsmith", "James", "1200 kingsway street", "Vancouver", "CA", "32441"
+
+''Valid input 
+AddCustomer "Cole", "Ray", "5380 clinton street", "Delta", "CA", "12345"  
