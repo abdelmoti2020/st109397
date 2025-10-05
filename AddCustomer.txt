@@ -66,3 +66,6 @@ AddCustomer "Mona", "Zaki", "university street", "Montreal", "CA", "10345"
 
 ''To test new ideas
 
+''Valid input 
+AddCustomer "Lionel", "Messi", "McDonald street", "Quebec", "CA", "14345" 
+
