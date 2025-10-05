@@ -72,3 +72,6 @@ AddCustomer "Lionel", "Messi", "McDonald street", "Quebec", "CA", "14345"
 ''Invalid input Firstname as numbers
 AddCustomer "56432190", "Jhon", "university street", "Ottwa", "CA", "19345"  
 
+''Valid inputs all inputs as numbers only
+AddCustomer "3487", "768063", "21789998210", "2341", "27", "24912" 
+
