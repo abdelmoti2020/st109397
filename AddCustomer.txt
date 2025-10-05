@@ -64,3 +64,5 @@ AddCustomer "Sami", "Ali", "garden street", "Calgary", "CA", "11345"
 ''Valid input 
 AddCustomer "Mona", "Zaki", "university street", "Montreal", "CA", "10345"  
 
+''To test new ideas
+
